@@ -17,13 +17,28 @@ Our task is to reproduce this design!
 
 ![mobile view](mobile.png)
 
-# Explorer Mode
+
+# Deliverables
+- a github url with the all the files need to run the site
+
+# Level 1
 
 - Use [bootstrap](http://getbootstrap.com) to reproduce the design
 - You do not need to add *any* additional CSS to achieve this design
-- All of the assets have been provided for you including a skeleton `index.html` file
+- Remove all the old content from the index page and place your new HTML there
+- Don't worry about making the data dynamic for this level. 
 - Do not vary from the design as provided, add nothing, and leave nothing out. Your design doesn't need to be pixel perfect, but with bootstrap it shouldn't be far off.
 
-# Adventure Mode
+
+# Level 1.5
+- Attend Gavin's Talk on Algorithms 
+
+# Level 2
+
+- Create a ViewModel for the site. Every item that could be dynamic should be represented in this view model
+- Pass the view model down from the controller to the cshtml already populated with data
+
+
+# Bonus Level
 
 - Keeping the same design feel, add more to the site. What other information could be added and how could we utilize bootstrap components to layout and style those.
