@@ -30,13 +30,13 @@ Our task is to reproduce this design!
 - Do not vary from the design as provided, add nothing, and leave nothing out. Your design doesn't need to be pixel perfect, but with bootstrap it shouldn't be far off.
 
 
-# Level 1.5
-- Attend Gavin's Talk on Algorithms 
-
 # Level 2
 
 - Create a ViewModel for the site. Every item that could be dynamic should be represented in this view model
 - Pass the view model down from the controller to the cshtml already populated with data
+
+# Level 3
+ - Create a Database to support this site using EF and  Make the HomePage Actually Dynamic
 
 
 # Bonus Level
